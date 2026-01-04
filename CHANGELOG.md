@@ -3,6 +3,20 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v0.1.21](https://github.com/crenata/bejibun-cli/compare/v0.1.20...v0.1.21) - 2026-01-04
+
+### 🩹 Fixes
+
+### 📖 Changes
+- Change git repository from individual to organization.
+
+### ❤️Contributors
+- Havea Crenata ([@crenata](https://github.com/crenata))
+
+**Full Changelog**: https://github.com/crenata/bejibun-cli/blob/master/CHANGELOG.md
+
+---
+
 ## [v0.1.20](https://github.com/crenata/bejibun-cli/compare/v0.1.19...v0.1.20) - 2025-12-01
 
 ### 🩹 Fixes

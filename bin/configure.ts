@@ -27,7 +27,7 @@ Logger.separator();
 Logger.setContext(context).info("Cloning the Project");
 Logger.separator();
 
-Bun.spawnSync(["git", "clone", "https://github.com/crenata/bejibun.git", directory], {
+Bun.spawnSync(["git", "clone", "https://github.com/Bejibun-Framework/bejibun.git", directory], {
     stdin: "inherit",
     stdout: "inherit",
     stderr: "inherit"
