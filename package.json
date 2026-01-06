@@ -19,7 +19,7 @@
         "deploy": "bun run build && bun publish --access public"
     },
     "dependencies": {
-        "@bejibun/core": "^0.1.46"
+        "@bejibun/core": "^0.1.68"
     },
     "devDependencies": {
         "@types/bun": "latest"
