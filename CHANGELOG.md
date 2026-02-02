@@ -3,6 +3,20 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v0.1.22](https://github.com/Bejibun-Framework/bejibun-cli/compare/v0.1.21...v0.1.22) - 2026-02-02
+
+### 🩹 Fixes
+
+### 📖 Changes
+- Customize the installation interface as it is on the website.
+
+### ❤️Contributors
+- Havea Crenata ([@crenata](https://github.com/crenata))
+
+**Full Changelog**: https://github.com/Bejibun-Framework/bejibun-cli/blob/master/CHANGELOG.md
+
+---
+
 ## [v0.1.21](https://github.com/Bejibun-Framework/bejibun-cli/compare/v0.1.20...v0.1.21) - 2026-01-04
 
 ### 🩹 Fixes
