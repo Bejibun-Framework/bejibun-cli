@@ -3,6 +3,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v0.1.23](https://github.com/Bejibun-Framework/bejibun-cli/compare/v0.1.22...v0.1.23) - 2026-08-03
+
+### 🩹 Fixes
+
+### 📖 Changes
+
+### 📦 Dependencies
+- Bumped `@bejibun/core` from `^0.1.73` to `^0.4.25`
+
+### ❤️Contributors
+- Havea Crenata ([@crenata](https://github.com/crenata))
+
+**Full Changelog**: https://github.com/Bejibun-Framework/bejibun-cli/blob/master/CHANGELOG.md
+
+---
+
 ## [v0.1.22](https://github.com/Bejibun-Framework/bejibun-cli/compare/v0.1.21...v0.1.22) - 2026-02-02
 
 ### 🩹 Fixes
